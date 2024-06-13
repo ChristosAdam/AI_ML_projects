@@ -1,0 +1,4 @@
+#ignore pyfiles
+Geojson_Read.py
+Data_read_prec_Bologna.py
+Data_read_Discharge.py
